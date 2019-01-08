@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {"protractor ./FULLSTACKTESTING/Configuration?conf.js"
-
+  "scripts": {
+    "test": "protractor ./FULLSTACKTESTING/Configuration/conf.js"
   },
   "author": "",
   "license": "ISC",
@@ -15,6 +15,7 @@
     "protractor-beautiful-reporter": "^1.2.5"
   },
   "dependencies": {
+    "jasmine-allure-reporter": "^1.0.2",
     "pg-promise": "^8.5.0"
   }
 }
