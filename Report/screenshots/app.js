@@ -168,20 +168,21 @@ app.controller('ScreenshotReportController', function ($scope) {
 
     var results = [
     {
-        "description": "Test Case 6 - Backend Testing Multiple Users Login Information Check|Login with DB Connection",
+        "description": "login the website (Hard Coded)|bookit",
         "passed": true,
         "pending": false,
         "os": "Mac OS X",
-        "instanceId": 28513,
+        "instanceId": 30971,
         "browser": {
             "name": "chrome",
             "version": "71.0.3578.98"
         },
-        "message": "Passed",
+        "message": "Passed.",
+        "trace": "",
         "browserLogs": [],
-        "screenShotFile": "images/00af0060-00fd-002d-0020-00ea006d0021.png",
-        "timestamp": 1546984061813,
-        "duration": 7
+        "screenShotFile": "images/009000b6-00ac-00ab-00bb-00da006b0007.png",
+        "timestamp": 1546985388935,
+        "duration": 6362
     }
 ];
 
