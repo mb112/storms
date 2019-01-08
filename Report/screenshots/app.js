@@ -172,16 +172,16 @@ app.controller('ScreenshotReportController', function ($scope) {
         "passed": true,
         "pending": false,
         "os": "Mac OS X",
-        "instanceId": 16172,
+        "instanceId": 28513,
         "browser": {
             "name": "chrome",
-            "version": "70.0.3538.77"
+            "version": "71.0.3578.98"
         },
         "message": "Passed",
         "browserLogs": [],
-        "screenShotFile": "images/00160066-0030-009f-009d-00fe003500a7.png",
-        "timestamp": 1541971286813,
-        "duration": 6
+        "screenShotFile": "images/00af0060-00fd-002d-0020-00ea006d0021.png",
+        "timestamp": 1546984061813,
+        "duration": 7
     }
 ];
 
